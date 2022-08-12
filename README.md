@@ -1,6 +1,6 @@
-This is a web page developed with JavaScript, HTML, CSS and React to show my portfolio
+# This is a web page developed with JavaScript, HTML, CSS and React to show my portfolio
 
-Made by:  
+## Made by:  
 - Abner Jeffrey Tapia Cruz
 
 # Getting Started with Create React App
